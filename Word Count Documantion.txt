@@ -1,0 +1,14 @@
+Word Count Label Heading Filter Hook
+@ wordcount_label_heading
+
+Word Count Tag Filter Hook
+@ wordcount_tag_change
+
+Word Count Reding Time Label Filter Hook
+@ wordcount_reding_label
+
+Word Count Reding Tag Filter Hook
+@ wordcount_reding_tag
+
+Plugin Develop By Noyon Hossain
+Contact Info: noyonhossain560@gmail.com
